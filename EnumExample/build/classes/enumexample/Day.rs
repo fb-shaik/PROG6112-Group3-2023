@@ -1,0 +1,2 @@
+enumexample.Day
+enumexample.DayType
