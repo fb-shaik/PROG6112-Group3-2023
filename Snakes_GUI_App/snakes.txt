@@ -1,0 +1,13 @@
+Black Mamba
+Fatality Ranking :7
+Medical Assistance: In 30 minutes
+Boomslang
+Fatality Ranking : 6
+Medical Assistance: In 45 minutes
+Puff Adder
+Fatality Ranking : 9
+Medical Assistance: In 25 minutes
+King Cobra
+Fatality Ranking : 9
+Medical Assistance: In 10 minutes
+

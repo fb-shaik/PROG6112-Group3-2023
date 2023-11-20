@@ -1,0 +1,6 @@
+Travel Log
+*******************************************
+Start Location: Durban
+End Location: Cape Town
+Travel By: Airplane
+*******************************************
