@@ -1,0 +1,2 @@
+100 , Nike Tennis Shoes ,  R 150
+102 , T-Shirt ,  R 100
